@@ -9,8 +9,12 @@ Libraries used/would be used:
 - Probably more :)
 
 To install the packages, type:
+
 install.packages('iris')
-and so on in your console window. To install dplyr and ggplot2, simply type:
+
+and so on in your console window. To install dplyr and ggplot2, simply type: 
+
 install.packages('tidyverse')
+
 as Tidyverse is a collection of R packages designed for data science. 
 
